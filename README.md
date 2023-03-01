@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=&bg=000000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=vampires%20diaries...)](https://discord.com/users/94490510688792576)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/220325900523143168?theme=light&bg=&bg=000000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=vampires%20diaries...)](https://discord.com/users/220325900523143168)

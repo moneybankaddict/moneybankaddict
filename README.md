@@ -201,6 +201,6 @@ and that's okay.
 
 <div align="center">
 
-<img src="https://c.tenor.com/nHhMcCpuul8AAAAC/tenor.gif" width="250">
+<img src="https://64.media.tumblr.com/tumblr_lxlmrghlCP1r95dywo1_500.gif" width="250">
 
 </div>

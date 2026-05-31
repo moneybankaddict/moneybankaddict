@@ -155,18 +155,6 @@ than others
 
 ---
 
-## github.sys
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=moneybankaddict&show_icons=true&theme=radical">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moneybankaddict&layout=compact&theme=radical">
-
-</div>
-
----
-
 <div align="center">
 
 ### visitors

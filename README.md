@@ -123,12 +123,12 @@ currently:
 ## currently_listening.mp3
 
 ```txt
-♪ My Chemical Romance
-♪ Brand New
-♪ Silverstein
-♪ Saosin
-♪ Underoath
-♪ Escape The Fate
+♪ kynlary
+♪ slidetomycrib
+♪ royalevisu
+♪ jovan
+♪ kklaine
+♪ zayhunxhos
 ```
 
 ---
